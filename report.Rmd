@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "Ainhoa Gartzia"
 date: "11/4/2020"
-output: word_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
